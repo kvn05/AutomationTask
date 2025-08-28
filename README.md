@@ -119,14 +119,6 @@ language = st.sidebar.selectbox("Language", [
 ])
 ```
 
-### Customizing Chunk Sizes
-
-Adjust the chunk length slider range:
-
-```python
-chunk_length = st.sidebar.slider("Split text every N characters:", 500, 10000, 2500)
-```
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -183,14 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [gTTS](https://github.com/pndurette/gTTS) for Google Text-to-Speech integration
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for web scraping
 - [PyPDF2](https://github.com/py-pdf/PyPDF2) for PDF text extraction
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- Create an issue on GitHub
-- Contact: your.email@example.com
-- Documentation: [Wiki](https://github.com/yourusername/article-to-audio-converter/wiki)
 
 ## 🗺️ Roadmap
 
