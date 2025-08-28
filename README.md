@@ -33,8 +33,8 @@ A powerful Streamlit web application that converts articles and documents into a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/article-to-audio-converter.git
-   cd article-to-audio-converter
+   git clone https://github.com/kvn05/AutomationTask.git
+   cd AutomationTask
    ```
 
 2. **Install required dependencies**
